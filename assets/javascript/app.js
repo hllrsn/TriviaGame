@@ -42,7 +42,7 @@ $(document).ready(function(){
 		$("#timer-countdown").html(timerCount + " Seconds");  //displays timer in the HTML
 
 		$("#done-button").on("click", function(){  //if user clicks done before time is up, stop the countdown and run the timeUp function
-			//Fix needed: setTimeout and clearInterval
+			//Fix needed: clearInterval (and/or setTimeout ? )
 			timerCount = 0;
 		return;
 	});
