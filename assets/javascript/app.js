@@ -43,7 +43,7 @@ $(document).ready(function(){
 
 		$("#done-button").on("click", function(){  //if user clicks done before time is up, stop the countdown and run the timeUp function
 			//Fix needed: setTimeout and clearInterval
-			timerCount = 0;  //workaround
+			timerCount = 0;
 		return;
 	});
 
