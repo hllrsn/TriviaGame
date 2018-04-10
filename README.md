@@ -1,2 +1,2 @@
 # TriviaGame
-A timed trivia quiz.
+A timed trivia quiz using JavaScript and jQuery.
