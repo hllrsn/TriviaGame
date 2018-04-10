@@ -2,6 +2,7 @@ body {
 	background: url("../images/stpatday1.jpg") #09542e;
 	/*background-repeat: repeat;*/
 	background-size: 100%;
+	background-attachment: fixed;
 	color: white;
 	text-align: center;
 }
